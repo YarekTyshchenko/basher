@@ -16,7 +16,7 @@ Even though it is called basher, it also works with zsh and fish.
 1. Checkout basher on `~/.basher`
 
     ~~~ sh
-    $ git clone https://github.com/basherpm/basher.git ~/.basher
+    $ git clone https://github.com/yarektyshchenko/basher.git ~/.basher
     ~~~
 
 2. Add `~/.basher/bin` to `$PATH` for easy access to the basher command-line utility.
